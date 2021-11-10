@@ -12,6 +12,6 @@ package Entity;
 public class Medoc {
     
     private int idmedoc;
-    
+    private String nom;
     
 }
